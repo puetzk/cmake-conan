@@ -12,7 +12,7 @@ def TO_CMAKE_PATH(path):
 
 class CmakeModulesConan(ConanFile):
     name = "cmake-conan"
-    version = "0.15+FOCUS.1"
+    version = "0.15+FOCUS.2"
     description = "CMake wrapper for conan C and C++ package manager"
     url = "https://github.com/conan-io/cmake-conan"
 
